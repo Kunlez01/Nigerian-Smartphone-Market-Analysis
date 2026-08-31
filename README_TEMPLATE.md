@@ -1,4 +1,4 @@
-# [Project Title]
+# Jumia Smartphone Market Analysis | Python & Power BI
 > *One sentence. What did you analyze, build, or solve - and why does it matter?*
 
 ---
@@ -6,15 +6,13 @@
 ## ⚙️ Project Type Flags
 > *Check what applies. This helps reviewers and collaborators understand the nature of the work at a glance. Delete this block before publishing.*
 
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] SQL Analysis / Querying
-- [ ] Dashboard / Data Visualization
-- [ ] Data Pipeline / ETL
-- [ ] Predictive Modelling / Machine Learning
-- [ ] Data Cleaning / Wrangling
-- [ ] End-to-End (multiple of the above)
-- [ ] Other: ___________
-
+- Web Scraping
+- Exploratory Data Analysis
+-  Data Cleaning / Wrangling
+-  Business Intelligence    
+-  Dashboard / Data Visualization
+-  Data Analysis
+-  Data Modeling
 ---
 
 ## Table of Contents
