@@ -17,7 +17,7 @@
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
-2. [Objectives](#2-objectives)
+2. [Business Problem & Objectives](#2-Business Problem & Objectives)
 3. [Project Scope & Tools](#3-project-scope--tools)
 4. [Repository Structure](#4-repository-structure)
 5. [Data Workflow](#5-data-workflow)
@@ -36,18 +36,7 @@
 ## 1. Project Overview
 
 <!--
-  Write 3–5 sentences in plain language.
-  Cover: context → problem → approach → outcome.
-  Read it out loud. If it sounds like a form - rewrite it.
-
-  WHAT GOOD LOOKS LIKE:
-  "A mid-size retail business was seeing inconsistent revenue across
-  its regional stores but couldn't identify the root cause. This project
-  explored 18 months of transaction data across five regions to determine
-  whether underperformance was driven by sales volume, pricing, or return
-  rates. The analysis revealed that one region's gap was almost entirely
-  explained by an unusually high return rate on a single product category -
-  a finding invisible in the company's top-level reporting."
+Jumia has thousands of smartphone listings with different brands, prices, specifications, discounts, and customer ratings, making it difficult to see clear patterns in the market. I wanted to understand which brands and product specifications were most common and how factors such as price, RAM, storage, discounts, ratings, and reviews varied across the listings. I scraped and cleaned 2,800+ smartphone records using Python, Pandas, and Regex, then used Power BI to analyze and visualize the data. The project turned the raw listings into a structured analysis that made the main product, pricing, and specification patterns easier to understand.."
 
   WHAT TO AVOID:
   "This project analyzes sales data to find trends and insights."
