@@ -362,14 +362,14 @@ The analysis followed an exploratory data analysis (EDA) approach. I first exami
 
 ### Methods Used
 
-- Descriptive statistics — examined price, discount, rating, reviews, and product counts.
-- Data distribution analysis — explored the distribution of smartphone prices and specifications.
-- Brand segmentation — compared smartphone listings across different brands.
-- Specification analysis — compared RAM, storage, operating system, color, and screen-size patterns.
-- Pricing analysis — examined price ranges and differences across brands and specifications.
-- Discount analysis — explored discount patterns across smartphone listings.
-- Customer engagement analysis — examined ratings and review counts.
-- Exploratory visual analysis — used Power BI to communicate patterns and comparisons through interactive dashboards.
+- Descriptive statistics: examined price, discount, rating, reviews, and product counts.
+- Data distribution analysis: explored the distribution of smartphone prices and specifications.
+- Brand segmentation: compared smartphone listings across different brands.
+- Specification analysis: compared RAM, storage, operating system, color, and screen-size patterns.
+- Pricing analysis: examined price ranges and differences across brands and specifications.
+- Discount analysis: explored discount patterns across smartphone listings.
+- Customer engagement analysis: examined ratings and review counts.
+- Exploratory visual analysis: used Power BI to communicate patterns and comparisons through interactive dashboards.
 
 ---
 
@@ -402,7 +402,7 @@ Storage capacity was concentrated around 128GB (681 products) and 256GB (565 pro
 **Insight 3: Smartphone Prices Varied Significantly Across Brands**
 The dashboard showed substantial differences in average prices between brands. Premium brands such as Apple, Google, and OnePlus appeared among the higher-priced brands, while several other brands had considerably lower average listing prices. This highlights clear price positioning differences across the market.
 
-**Insight 4 High Ratings Did Not Always Mean High Customer Engagement**
+**Insight 4: High Ratings Did Not Always Mean High Customer Engagement**
 The product-level analysis showed that some highly rated phones had relatively few reviews, while other products had much higher review volumes. This led to the use of a Credibility Score that considers both rating and review volume, providing a more balanced way to evaluate product ratings.
 
 ---
@@ -430,9 +430,10 @@ The product-level analysis showed that some highly rated phones had relatively f
 
 | Priority | Recommendation | Based On | Suggested Owner |
 |----------|---------------|----------|-----------------|
-| High | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Medium | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Low | [Exploratory or longer-term suggestion] | [Insight it comes from] | [Who should act] |
+| High | Prioritize monitoring and merchandising of high-demand smartphone brands, particularly Samsung, Apple, and Xiaomi, while ensuring popular configurations remain well represented. | Samsung had the highest listing presence, with 607 products, followed by Apple and Xiaomi. | Category / Marketplace Manager |
+| Medium | Review pricing and product positioning across brands to identify opportunities for more competitive pricing, especially where premium and lower-priced brands serve different customer segments. | Significant differences were observed in average prices across brands. | Pricing / Commercial Team |
+| Medium | Focus product analysis on the most common storage configurations, particularly 128GB and 256GB, when evaluating assortment and availability. | 128GB and 256GB were the dominant storage capacities in the dataset. | Category / Merchandising Team |
+| Low | Use the Credibility Score alongside raw ratings when comparing products and consider collecting additional customer and sales data for a stronger product-performance assessment. | Some products had high ratings but relatively different review volumes. | Data / BI & Product Team |
 
 ---
 
@@ -454,15 +455,20 @@ The product-level analysis showed that some highly rated phones had relatively f
 -->
 
 ### Assumptions
-- [What did you treat as true without being able to verify?]
-- [What simplifications did you make for scope or feasibility?]
-- [What domain rules or definitions did you accept as given?]
+- The listed price, discount, rating, and review values were treated as representative of the product information displayed on Jumia at the time of data collection.
+- Product specifications such as RAM, storage, OS, color, and screen size were interpreted from the available product listing information and standardized during data preparation.
+- Each collected product listing was treated as an individual product record for analysis.
+- The Credibility Score was used as an analytical metric to provide additional context around product ratings and review volume; it should not be interpreted as an official Jumia rating measure.
+- The analysis focuses on marketplace listing patterns, rather than actual product sales or customer purchasing behavior.
 
 ### Limitations
-- [What gaps exist in the data?]
-- [What analysis was out of scope but could affect interpretation?]
-- [What would a more rigorous version of this project include?]
-- [Are there known biases in the data source or collection method?]
+- The dataset represents Jumia listings collected during the scraping exercise, so it may not represent the entire Nigerian smartphone market.
+- Product availability, prices, discounts, ratings, and review counts can change over time, meaning the results represent a snapshot of the marketplace rather than a permanent market position.
+- The dataset does not contain verified sales volume, revenue, profit, inventory levels, customer demographics, or conversion rates, so conclusions about actual commercial performance cannot be made.
+- Some product specifications were extracted from unstructured product names, meaning inconsistent naming conventions or missing information may affect the accuracy of extracted attributes.
+- The analysis does not establish causal relationships. For example, a higher rating or lower price cannot be assumed to cause higher sales without sales or customer-behavior data.
+- The analysis is based on Jumia's marketplace listings, so comparisons with other Nigerian e-commerce platforms were outside the scope of this project.
+- A more rigorous version could incorporate historical price tracking, sales data, customer behavior, seller information, and competitor marketplace data to provide deeper market and commercial insights.
 
 > *The goal here is pre-emptive Q&A. What would a thoughtful skeptic push back on? Document the answer here, before they ask.*
 
