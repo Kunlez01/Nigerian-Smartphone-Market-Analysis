@@ -350,24 +350,26 @@ erDiagram
 
 ### Analytical Approach
 
-[Describe how you approached the analysis. Were you exploring patterns? Testing a hypothesis? Building and validating a pipeline? Be honest about your method - exploratory work is valid, just call it that.]
+The analysis followed an exploratory data analysis (EDA) approach. I first examined and cleaned the 2,800+ Jumia smartphone listings, then transformed unstructured product information into usable fields such as brand, model, RAM, storage, OS, color, and screen size. I explored product and pricing patterns by comparing brands, specifications, discounts, ratings, and reviews, and then used Power BI to present the findings in an interactive format. The main goal was to understand the characteristics and pricing patterns of smartphones listed on Jumia rather than build or validate a predictive model.
 
 ### Key Metrics Defined
 
 | Metric | Plain-Language Definition | Why It Matters |
 |--------|--------------------------|----------------|
-| `[Metric 1]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 2]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 3]` | [What it measures, in one sentence] | [What decision or question it answers] |
+| `Average price, Discount, Rating, Review` | The average listed price, Discount, Review and Rating of smartphones in the dataset. | Helps understand the typical fields level and compare fields across brands and specifications. |
+| `Count Products` | The number of smartphone listings in a selected group. | Helps compare the presence of brands and product specifications within the dataset. |
+| `Credibility Score` | Credibility Score measures how trustworthy a smartphone’s rating is by balancing its actual rating with the overall average rating based on the number of reviews. | Which smartphones have ratings that are genuinely credible, and which high ratings may be unreliable because they are based on too few reviews? |
 
 ### Methods Used
 
-- [e.g., Descriptive statistics - distribution, central tendency, outlier detection]
-- [e.g., Trend analysis across [time period]]
-- [e.g., Segmentation / group comparison by [dimension]]
-- [e.g., Correlation analysis between [variable A] and [variable B]]
-- [e.g., SQL window functions for [specific aggregation]]
-- [e.g., Custom aggregation or transformation logic in [tool]]
+- Descriptive statistics — examined price, discount, rating, reviews, and product counts.
+- Data distribution analysis — explored the distribution of smartphone prices and specifications.
+- Brand segmentation — compared smartphone listings across different brands.
+- Specification analysis — compared RAM, storage, operating system, color, and screen-size patterns.
+- Pricing analysis — examined price ranges and differences across brands and specifications.
+- Discount analysis — explored discount patterns across smartphone listings.
+- Customer engagement analysis — examined ratings and review counts.
+- Exploratory visual analysis — used Power BI to communicate patterns and comparisons through interactive dashboards.
 
 ---
 
