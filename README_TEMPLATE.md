@@ -242,9 +242,9 @@
 
 
 
-> **Row count (approx.):** [X rows]
-> **Date range:** [Start] – [End]
-> **Key join / relationship:** [e.g., `orders.customer_id` → `customers.id`]
+> **Row count (approx.):** 1761
+> **Date range:** [01] – 1761
+> **Key join / relationship:** [`smartphone` → `product_variant`]
 
 *Add additional table blocks as needed for multi-table projects.*
 
