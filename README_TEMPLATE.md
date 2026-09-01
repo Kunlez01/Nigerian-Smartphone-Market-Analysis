@@ -393,17 +393,17 @@ The analysis followed an exploratory data analysis (EDA) approach. I first exami
   Aim for 3–6 insights. Quality over quantity.
 -->
 
-**Insight 1: [Short descriptive headline]**
-[What you found + what it suggests. One short paragraph.]
+**Insight 1: Samsung Had the Strongest Marketplace Presence**
+Samsung had the highest number of listings in the dataset, with 607 products, followed by Apple (283) and Xiaomi (154). This suggests Samsung had the strongest product representation among the sampled Jumia smartphone listings.
 
-**Insight 2: [Short descriptive headline]**
-[What you found + what it suggests.]
+**Insight 2: 128GB and 256GB Were the Dominant Storage Options**
+Storage capacity was concentrated around 128GB (681 products) and 256GB (565 products), together accounting for a large share of the listings. This indicates that mid-to-high storage configurations were the most commonly available options in the sampled market.
 
-**Insight 3: [Short descriptive headline]**
-[What you found + what it suggests.]
+**Insight 3: Smartphone Prices Varied Significantly Across Brands**
+The dashboard showed substantial differences in average prices between brands. Premium brands such as Apple, Google, and OnePlus appeared among the higher-priced brands, while several other brands had considerably lower average listing prices. This highlights clear price positioning differences across the market.
 
-**Insight 4 (if applicable): [Short descriptive headline]**
-[What you found + what it suggests.]
+**Insight 4 High Ratings Did Not Always Mean High Customer Engagement**
+The product-level analysis showed that some highly rated phones had relatively few reviews, while other products had much higher review volumes. This led to the use of a Credibility Score that considers both rating and review volume, providing a more balanced way to evaluate product ratings.
 
 ---
 
