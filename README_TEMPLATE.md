@@ -110,13 +110,12 @@
 
 | Category | Tool(s) Used |
 |----------|-------------|
-| Data Storage | [e.g., PostgreSQL, CSV files, BigQuery, S3] |
-| Data Processing | [e.g., Python, R, SQL, Excel, dbt] |
-| Analysis | [e.g., pandas, dplyr, custom SQL queries] |
-| Visualization | [e.g., Matplotlib, Tableau, Power BI, Looker] |
-| Version Control | [e.g., Git / GitHub] |
-| Documentation | [e.g., Markdown, Notion] |
-| Other | [Any additional tools] |
+| Data Storage | CSV / Pandas DataFrame |
+| Data Processing | Python, Pandas, NumPy, Regular Expressions (Regex) |
+| Analysis | Python, Pandas, Exploratory Data Analysis (EDA) |
+| Visualization |Matplotlib, Power BI |
+| Version Control | Git, GitHub |
+| Documentation | Jupyter Notebook, GitHub README |
 
 ---
 
