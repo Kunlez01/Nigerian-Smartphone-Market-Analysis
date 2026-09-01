@@ -225,9 +225,22 @@
 
 | Field Name | Data Type | Description | Example Value |
 |------------|-----------|-------------|---------------|
-| `[field_1]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
-| `[field_2]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
-| `[field_3]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
+| `Name` | [string | Full smartphone product listing name collected from Jumia. | Nokia 5310, 2.4" 16MB & 8MB RAM... |
+| `Price` | int | Listed selling price of the smartphone in Nigerian Naira (₦). | 56000 |
+| `Image` | string | URL linking to the product image. | https://ng.jumia.is/... |
+| `Link` | string | URL linking to the original Jumia product listing. | https://www.jumia.com.ng/... |
+| `Discount` | float | Discount percentage applied to the listed product. | 25.0 |
+| `rating` | float | Customer rating associated with the product listing. | 3.5 |
+| `reviews` | int | Number of customer reviews associated with the product. | 22 |
+| `price_category` | String | Category assigned to the smartphone based on its price level. | Low |
+| `value_sfloatcore` | flaot | Calculated score used to evaluate the product's relative value based on the available analysis variables. | 0.003485 |
+| `phone_model` | string | Standardized smartphone brand/model extracted from the product listing. | nokia 5310 |
+| `ram` | string | RAM capacity extracted from the product information. | 4GB |
+| `storage` | string | Internal storage capacity extracted from the product information. | 64GB |
+| `color` | string | Smartphone color stated in the product listing. | Black |
+
+
+
 
 > **Row count (approx.):** [X rows]
 > **Date range:** [Start] – [End]
