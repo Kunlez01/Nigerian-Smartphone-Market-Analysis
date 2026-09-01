@@ -189,12 +189,12 @@
 [Output / Visualisation / Reporting]
 ```
 
-1. **Source:** [Where did the data come from? Format, size, access method.]
-2. **Ingestion:** [How was it brought in?]
-3. **Cleaning:** [What issues did you find and fix?]
-4. **Transformation:** [What new fields, aggregations, or structures did you create?]
-5. **Analysis:** [What methods - statistical, visual, query-based, model-based?]
-6. **Output:** [What form do the results take?]
+1. **Source:** Jumia smartphone product listings collected from the website, with 2,800+ product records containing fields such as product name, price, brand, discount, rating, reviews, RAM, storage, OS, color,
+2. **Ingestion:** The listings were collected through Python web scraping and loaded into a Pandas DataFrame for inspection and processing.
+3. **Cleaning:** I identified and handled duplicate records, missing values, inconsistent product names, price formats, and unstructured specification information. Price values and other relevant fields were standardized where possible.
+4. **Transformation:** I used Pandas and Regex to extract structured attributes from product names, creating fields such as brand, model, RAM, storage, OS, color, and screen size.
+5. **Analysis:** I performed exploratory data analysis using Python/Pandas and used Power BI to analyze and visualize patterns in brands, pricing, RAM, storage, discounts, ratings, and reviews.
+6. **Output:** The project produced a cleaned, structured dataset and Power BI dashboard/visual analysis showing smartphone product and pricing patterns and supporting market-focused insights.
 
 ---
 
