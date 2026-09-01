@@ -99,7 +99,6 @@
 |-----------|---------|
 | **In Scope** | [Jumia smartphone listings covering product names, brands, models, prices, discounts, ratings, reviews, RAM, storage, operating systems, colors, and screen sizes.] |
 | **Out of Scope** | [Actual sales, revenue, customer demographics, purchase behavior, and competitor websites, because these data were not available in the collected Jumia listings.] |
-| **Time Period** | [Not specified — the dataset represents the Jumia listings collected during the scraping exercise rather than a defined historical period.] |
 | **Granularity** | [Product-listing level — each row represents an individual smartphone listing/product record.] |
 
 ### Tools & Technologies
