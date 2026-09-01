@@ -43,7 +43,7 @@
   (Too vague. Could describe 10,000 projects. Describes none of them.)
 -->
 
-**Context:** [The business, research, or personal situation that motivated this project.]
+**Context:** [I wanted to understand the smartphone market on Jumia and turn real-world product listings into useful information about the products available to customers.]
 
 **Problem Statement:** [The specific question or challenge you were addressing.]
 
