@@ -71,16 +71,14 @@
   (These can't fail - which means they can't succeed either.)
 -->
 
-- **Primary Objective:** [The main thing you set out to do]
-- **Secondary Objective 1:** [Supporting goal]
-- **Secondary Objective 2:** [Supporting goal]
-- **Secondary Objective 3:** [Remove if not applicable]
+- **Primary Objective:** Analyze 2,800+ Jumia smartphone listings to understand product, pricing, and market patterns.
+- **Secondary Objective 1:** Identify the most common smartphone brands, RAM, storage, operating systems, and other product specifications.
+- **Secondary Objective 2:** 
+- **Secondary Objective 3:** Examine pricing, discounts, ratings, and reviews to uncover useful patterns and present the findings through a Power BI dashboard.
 
 > 💡 *Every analysis decision in this project traces back to one of these objectives.*
 
 ---
-
-## 3. Project Scope & Tools
 
 ### Scope
 
