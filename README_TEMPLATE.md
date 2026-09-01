@@ -36,7 +36,7 @@
 ## 1. Project Overview
 
 <!--
-Jumia has thousands of smartphone listings with different brands, prices, specifications, discounts, and customer ratings, making it difficult to see clear patterns in the market. I wanted to understand which brands and product specifications were most common and how factors such as price, RAM, storage, discounts, ratings, and reviews varied across the listings. I scraped and cleaned 2,800+ smartphone records using Python, Pandas, and Regex, then used Power BI to analyze and visualize the data. The project turned the raw listings into a structured analysis that made the main product, pricing, and specification patterns easier to understand.."
+"Jumia has thousands of smartphone listings with different brands, prices, specifications, discounts, and customer ratings, making it difficult to see clear patterns in the market. I wanted to understand which brands and product specifications were most common and how factors such as price, RAM, storage, discounts, ratings, and reviews varied across the listings. I scraped and cleaned 2,800+ smartphone records using Python, Pandas, and Regex, then used Power BI to analyze and visualize the data. The project turned the raw listings into a structured analysis that made the main product, pricing, and specification patterns easier to understand."
 
   WHAT TO AVOID:
   "This project analyzes sales data to find trends and insights."
