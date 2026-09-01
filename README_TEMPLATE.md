@@ -43,13 +43,13 @@
   (Too vague. Could describe 10,000 projects. Describes none of them.)
 -->
 
-**Context:** [I wanted to understand the smartphone market on Jumia and turn real-world product listings into useful information about the products available to customers.]
+**Context:** I wanted to understand the smartphone market on Jumia and turn real-world product listings into useful information about the products available to customers.
 
-**Problem Statement:** [The specific question or challenge you were addressing.]
+**Problem Statement:** With thousands of listings containing different brands, prices, specifications, discounts, ratings, and reviews, it was difficult to identify clear patterns in the market. I wanted to find out which brands and smartphone specifications were most common and how pricing and other product factors varied.
 
-**Approach:** [In 1–2 sentences - how did you tackle it?]
+**Approach:** I scraped 2,800+ Jumia smartphone listings using Python, then cleaned and transformed the data with Pandas and Regex. I used Power BI to model, analyze, and visualize the data across key areas such as brands, pricing, RAM, storage, discounts, ratings, and reviews.
 
-**Outcome:** [What did you produce or discover?]
+**Outcome:** I produced a structured dataset and Power BI analysis/dashboard that made product, pricing, and specification patterns easier to identify and understand.
 
 ---
 
