@@ -17,7 +17,7 @@
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
-2. [Business Problem & Objectives](#2-Business Problem & Objectives)
+2. [Business Problem & Objectives](#2-Business-Problem--Objectives)
 3. [Project Scope & Tools](#3-project-scope--tools)
 4. [Repository Structure](#4-repository-structure)
 5. [Data Workflow](#5-data-workflow)
