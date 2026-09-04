@@ -370,9 +370,9 @@ The analysis followed an exploratory data analysis (EDA) approach. I first exami
 ## Dashboards Overview 
 Click [here](https://app.powerbi.com/groups/me/reports/e3cfa1f8-bdfe-495f-9415-f8dbe9ee2bf6/3c1c74029e636d6b5130?experience=power-bi)
 
-| Executive Dashboard                         | Brand Dashboard                                  | Product Dashboard                     |
-|---------------------------------------------|--------------------------------------------------|---------------------------------------|
-| ![](Executive_Dashboard.png)                | ![](Brand_Dashboard.png)                         | ![](Product_Dashboard)                |
+| Executive Dashboard                      | Brand Dashboard                               | Product Dashboard                     |
+|------------------------------------------|-----------------------------------------------|---------------------------------------|
+| ![reports](Executive_Dashboard.png)      | ![reports](Brand_Dashboard.png)               | ![reports](Product_Dashboard)         |
 
 
 
