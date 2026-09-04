@@ -221,7 +221,7 @@
      if a formal schema doesn't apply. Even one paragraph is more helpful than nothing.
 -->
 
-### Dataset / Table: `[name]`
+### Dataset / Table: `[[View Nigerian-Smartphone Table](.FINAL_UPDATED_MODELS_CLEANED.csv)]`
 
 | Field Name | Data Type | Description | Example Value |
 |------------|-----------|-------------|---------------|
