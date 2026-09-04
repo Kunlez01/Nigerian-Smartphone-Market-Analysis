@@ -374,12 +374,9 @@ Click [here](https://app.powerbi.com/groups/me/reports/e3cfa1f8-bdfe-495f-9415-f
 |------------------------------------------|-----------------------------------------------|---------------------------------------|
 | ![reports](Executive_Dashboard.png)      | ![reports](Brand_Dashboard.png)               | ![reports](Product_Dashboard)         |
 
-| Executive Dashboard                                       | Brand Dashboard                                   |
-|-----------------------------------------------------------|---------------------------------------------------|
-| ![Executive Dashboard](./reports/Executive_Dashboard.png) | ![Brand Dashboard](./reports/Brand_Dashboard.png) | 
-|Product Dashboard                                    |
-|-----------------------------------------------------|
-|![Product Dashboard](./reports/Product_Dashboard.png)|     |
+| Executive Dashboard | Brand Dashboard | Product Dashboard |
+|---------------------|-----------------|-------------------|
+| ![Executive Dashboard](./Executive_Dashboard.png) | ![Brand Dashboard](./Brand_Dashboard.png) | ![Product Dashboard](./Product_Dashboard.png) |
 
 ### Key Metrics Defined
 
