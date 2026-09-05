@@ -118,7 +118,7 @@
 
 ---
 
-## 5. Data Workflow
+## 4. Data Workflow
 
 <!--
   Show how data moved through your project - from source to output.
@@ -163,7 +163,7 @@
 
 ---
 
-## 6. Data Model & Schema
+## 5. Data Model & Schema
 
 <!--
   Define your fields so that someone reading your analysis can follow along
@@ -293,7 +293,7 @@ Table products {
      the implementation in the code.
 -->
 
-### Analytical Approach
+## 6 Analytical Approach
 
 The analysis followed an exploratory data analysis (EDA) approach. I first examined and cleaned the 2,800+ Jumia smartphone listings, then transformed unstructured product information into usable fields such as brand, model, RAM, storage, OS, color, and screen size. I explored product and pricing patterns by comparing brands, specifications, discounts, ratings, and reviews, and then used Power BI to present the findings in an interactive format. The main goal was to understand the characteristics and pricing patterns of smartphones listed on Jumia rather than build or validate a predictive model.
 
@@ -327,7 +327,7 @@ Click [here](https://app.powerbi.com/groups/me/reports/e3cfa1f8-bdfe-495f-9415-f
 | `Count Products` | The number of smartphone listings in a selected group. | Helps compare the presence of brands and product specifications within the dataset. |
 | `Credibility Score` | Credibility Score measures how trustworthy a smartphone’s rating is by balancing its actual rating with the overall average rating based on the number of reviews. | Which smartphones have ratings that are genuinely credible, and which high ratings may be unreliable because they are based on too few reviews? |
 
-### Methods Used
+### 5 Methods Used
 
 - Descriptive statistics: examined price, discount, rating, reviews, and product counts.
 - Data distribution analysis: explored the distribution of smartphone prices and specifications.
@@ -340,7 +340,7 @@ Click [here](https://app.powerbi.com/groups/me/reports/e3cfa1f8-bdfe-495f-9415-f
 
 ---
 
-## 9. Key Insights
+## 7. Key Insights
 
 <!--
   Findings + implications. Not just what happened - what it means.
@@ -374,7 +374,7 @@ The product-level analysis showed that some highly rated phones had relatively f
 
 ---
 
-## 10. Recommendations
+## 8. Recommendations
 
 <!--
   Action-oriented. Addressed to a real audience.
@@ -404,7 +404,7 @@ The product-level analysis showed that some highly rated phones had relatively f
 
 ---
 
-## 11. Assumptions & Limitations
+## 9. Assumptions & Limitations
 
 <!--
   WHAT GOOD LOOKS LIKE:
@@ -437,13 +437,13 @@ The product-level analysis showed that some highly rated phones had relatively f
 - The analysis is based on Jumia's marketplace listings, so comparisons with other Nigerian e-commerce platforms were outside the scope of this project.
 - A more rigorous version could incorporate historical price tracking, sales data, customer behavior, seller information, and competitor marketplace data to provide deeper market and commercial insights.
 
-> *The goal here is pre-emptive Q&A. What would a thoughtful skeptic push back on? Document the answer here, before they ask.*
+> *“I’m early in my professional data analytics career, but I’ve been deliberately building hands-on projects that mirror real business problems. I’m transparent about what is portfolio work, and my goal is to apply these skills in a professional environment where I can continue learning while delivering useful analysis.”*
 ---
 
-## 14. Author
+## 10. Author
 
 **OLUKUNLE OYEWALE**
-[Your role or title - current or target]
+Data Analyst
 
 - 🔗 https://www.linkedin.com/in/olukunle034/
 - 💼 [Portfolio or GitHub profile URL]
@@ -451,5 +451,4 @@ The product-level analysis showed that some highly rated phones had relatively f
 
 ---
 
-*Last updated: August 2026
-*If this template helped you, consider starring the repository.*
+*Last updated: August 2026*
