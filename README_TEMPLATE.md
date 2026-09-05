@@ -370,19 +370,6 @@ The analysis followed an exploratory data analysis (EDA) approach. I first exami
 ## Dashboards Overview 
 Click [here](https://app.powerbi.com/groups/me/reports/e3cfa1f8-bdfe-495f-9415-f8dbe9ee2bf6/3c1c74029e636d6b5130?experience=power-bi)
 
-| Executive Dashboard                      | Brand Dashboard                               | Product Dashboard                     |
-|------------------------------------------|-----------------------------------------------|---------------------------------------|
-| ![reports](Executive_Dashboard.png)      | ![reports](Brand_Dashboard.png)               | ![reports](Product_Dashboard)         |
-
-| Executive Dashboard | Brand Dashboard | Product Dashboard |
-|---------------------|-----------------|-------------------|
-| ![Executive Dashboard](./Executive_Dashboard.png) | ![Brand Dashboard](./Brand_Dashboard.png) | ![Product Dashboard](./Product_Dashboard.png) |
-
-| Executive Dashboard | Brand Dashboard | Product Dashboard |
-|---------------------|-----------------|-------------------|
-| ![Executive Dashboard](./reports/Executive_Dashboard.png) | ![Brand Dashboard](./reports/Brand_Dashboard.png) | ![Product Dashboard](./reports/Product_Dashboard.png) |
-
-
 <table>
   <tr>
     <th>Executive Dashboard</th>
@@ -401,29 +388,6 @@ Click [here](https://app.powerbi.com/groups/me/reports/e3cfa1f8-bdfe-495f-9415-f
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <th>Executive Dashboard</th>
-    <th>Brand Dashboard</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./reports/Executive_Dashboard.png" width="450">
-    </td>
-    <td align="center">
-      <img src="./reports/Brand_Dashboard.png" width="450">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="center">Product Dashboard</h3>
-
-<p align="center">
-  <img src="./reports/Product_Dashboard.png" width="700">
-</p>
 
 ### Key Metrics Defined
 
