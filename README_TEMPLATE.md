@@ -298,7 +298,7 @@ Table products {
 The analysis followed an exploratory data analysis (EDA) approach. I first examined and cleaned the 2,800+ Jumia smartphone listings, then transformed unstructured product information into usable fields such as brand, model, RAM, storage, OS, color, and screen size. I explored product and pricing patterns by comparing brands, specifications, discounts, ratings, and reviews, and then used Power BI to present the findings in an interactive format. The main goal was to understand the characteristics and pricing patterns of smartphones listed on Jumia rather than build or validate a predictive model.
 
 ## Dashboards Overview 
-Click [here](https://app.powerbi.com/groups/me/reports/e3cfa1f8-bdfe-495f-9415-f8dbe9ee2bf6/3c1c74029e636d6b5130?experience=power-bi)
+You can interact with the dashboards [here](https://app.powerbi.com/groups/me/reports/e3cfa1f8-bdfe-495f-9415-f8dbe9ee2bf6/3c1c74029e636d6b5130?experience=power-bi)
 
 <table>
   <tr>
