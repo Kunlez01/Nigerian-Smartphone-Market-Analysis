@@ -382,6 +382,26 @@ Click [here](https://app.powerbi.com/groups/me/reports/e3cfa1f8-bdfe-495f-9415-f
 |---------------------|-----------------|-------------------|
 | ![Executive Dashboard](./reports/Executive_Dashboard.png) | ![Brand Dashboard](./reports/Brand_Dashboard.png) | ![Product Dashboard](./reports/Product_Dashboard.png) |
 
+
+<table>
+  <tr>
+    <th>Executive Dashboard</th>
+    <th>Brand Dashboard</th>
+    <th>Product Dashboard</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./reports/Executive_Dashboard.png" width="300">
+    </td>
+    <td align="center">
+      <img src="./reports/Brand_Dashboard.png" width="300">
+    </td>
+    <td align="center">
+      <img src="./reports/Product_Dashboard.png" width="300">
+    </td>
+  </tr>
+</table>
+
 ### Key Metrics Defined
 
 | Metric | Plain-Language Definition | Why It Matters |
