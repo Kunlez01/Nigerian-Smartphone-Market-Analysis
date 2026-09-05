@@ -9,8 +9,6 @@
 ---
 
 ## ⚙️ Project Type Flags
-> *Check what applies. This helps reviewers and collaborators understand the nature of the work at a glance. Delete this block before publishing.*
-
 - Web Scraping
 - Exploratory Data Analysis
 -  Data Cleaning / Wrangling
@@ -22,19 +20,16 @@
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
-2. [Business Problem & Objectives](#2-Business-Problem--Objectives)
+2. [Objectives](#2-Objectives)
 3. [Project Scope & Tools](#3-project-scope--tools)
-4. [Repository Structure](#4-repository-structure)
-5. [Data Workflow](#5-data-workflow)
-6. [Data Model & Schema](#6-data-model--schema)
-7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
-8. [Analysis & Metrics](#8-analysis--metrics)
-9. [Key Insights](#9-key-insights)
-10. [Recommendations](#10-recommendations)
-11. [Assumptions & Limitations](#11-assumptions--limitations)
-12. [Future Enhancements](#12-future-enhancements)
-13. [Deliverables](#13-deliverables)
-14. [Author](#14-author)
+4. [Data Workflow](#4-data-workflow)
+5. [Data Model & Schema](#5-data-model--schema)
+6. [Analysis & Metrics](#6-analysis--metrics)
+7. [Key Insights](#7-key-insights)
+8. [Method Used](#8-method-used)
+9. [Recommendations](#9-recommendations)
+10. [Assumptions & Limitations](#10-assumptions--limitations)
+11. [Author](#11-author)
 
 ---
 
@@ -78,8 +73,7 @@
 
 - **Primary Objective:** Analyze 2,800+ Jumia smartphone listings to understand product, pricing, and market patterns.
 - **Secondary Objective 1:** Identify the most common smartphone brands, RAM, storage, operating systems, and other product specifications.
-- **Secondary Objective 2:** 
-- **Secondary Objective 3:** Examine pricing, discounts, ratings, and reviews to uncover useful patterns and present the findings through a Power BI dashboard.
+- **Secondary Objective 2:** Examine pricing, discounts, ratings, and reviews to uncover useful patterns and present the findings through a Power BI dashboard.
 
 > 💡 *Every analysis decision in this project traces back to one of these objectives.*
 
@@ -448,14 +442,14 @@ The product-level analysis showed that some highly rated phones had relatively f
 
 ## 14. Author
 
-**[Your Name]**
+**OLUKUNLE OYEWALE**
 [Your role or title - current or target]
 
-- 🔗 [LinkedIn URL]
+- 🔗 https://www.linkedin.com/in/olukunle034/
 - 💼 [Portfolio or GitHub profile URL]
-- 📧 [Email - optional]
+- 📧 [kunlex.mth01@gmail.com]
 
 ---
 
-*Last updated: [Month YYYY]*
+*Last updated: August 2026
 *If this template helped you, consider starring the repository.*
