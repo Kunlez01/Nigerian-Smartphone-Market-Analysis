@@ -79,7 +79,7 @@
 
 ---
 
-### Scope
+## Project Scope & Tools
 
 <!--
   WHAT GOOD LOOKS LIKE:
