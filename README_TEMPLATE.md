@@ -1,5 +1,10 @@
 # Jumia Smartphone Market Analysis | Python & Power BI
-> *One sentence. What did you analyze, build, or solve - and why does it matter?*
+
+<p align="center">
+  <img src="./reports/smartphones_display.jpg" width="100%">
+</p>
+
+> *Analyzed 2,800+ Nigerian smartphone listings from Jumia Nigeria, cleaned and standardized product data with Python/Pandas, and built a 3-page Power BI dashboard to uncover pricing trends, brand performance, customer preferences, and product credibility to support better purchasing and pricing decisions.*
 
 ---
 
